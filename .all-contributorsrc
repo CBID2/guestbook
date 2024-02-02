@@ -1659,6 +1659,16 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "rupali-codes",
+      "name": "Rupali Haldiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78981177?v=4",
+      "profile": "https://github.com/rupali-codes",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
